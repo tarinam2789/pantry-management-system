@@ -1,0 +1,12 @@
+/* components/PantryList.module.css */
+.listItem {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .listItem button {
+    margin-left: 5px;
+  }
+  

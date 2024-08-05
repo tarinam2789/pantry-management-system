@@ -1,0 +1,28 @@
+.container {
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+  }
+  
+  .title {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .form {
+    margin-bottom: 20px;
+  }
+  
+  .itemList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .item {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
